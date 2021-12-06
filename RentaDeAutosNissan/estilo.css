@@ -1,0 +1,39 @@
+div { 
+  background:#CCC;
+  margin:5px;
+  padding:8px;
+  width:100%;
+}
+img {
+  width:300px;
+  height:auto; 
+}
+.menu {
+  width:100%;
+  list-style:none;
+  margin:0px;
+  padding:0px;
+  text-align: center;
+  font: oblique bold 130% cursive;
+}
+.menu li {
+  display:inline-block;
+}
+.menu li a {
+  display:inline-block;
+  color:#ffffff;
+  padding: 20px 30px;
+}
+.menu li a:hover {
+  background:#303952;
+  background-color: #9dbeb9;
+}
+table td{
+  font: Times New Roman;
+}  
+.tabla1{
+  background:#303952;
+  color:white;
+  width: 1000; 
+  height: 100;
+}

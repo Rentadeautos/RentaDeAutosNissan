@@ -1,0 +1,32 @@
+table{
+    background-color: #002366;
+    text-align: center;
+    color:white;
+}
+.Introduce{
+    background: #FFDAB9;
+    height: 50;
+    width: 300;
+}
+.Enviar{
+    background: #20f166;
+    height: 30;
+    width: 100;
+    font-size: 20;
+    font-family:sans-serif;
+    color: #ffffff;
+}
+.reset{
+    background: #f14040;
+    height: 30;
+    width: 100;
+    font-size: 20;
+    font-family:sans-serif;
+    color: #ffffff;
+}
+.text{
+    font-size: 20;
+}
+.title{
+    font-size: 30;
+}
